@@ -1,2 +1,3 @@
 Proyecto inicial
+Funcionalidad 1 agregada
 Funcionalidad 2 agregada
