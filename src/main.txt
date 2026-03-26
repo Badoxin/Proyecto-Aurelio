@@ -1,0 +1,2 @@
+Proyecto inicial
+Login: autenticación de usuarios mediante correo y contraseña
