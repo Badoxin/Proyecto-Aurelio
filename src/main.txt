@@ -1,0 +1,2 @@
+Proyecto inicial
+Registro: creación de cuentas de usuario con validación de datos
