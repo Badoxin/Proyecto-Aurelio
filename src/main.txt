@@ -1,0 +1,2 @@
+Proyecto inicial
+Frontend: interfaz de usuario y diseño visual
