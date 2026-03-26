@@ -1,0 +1,2 @@
+Proyecto inicial
+Dashboard: panel principal con información del usuario
