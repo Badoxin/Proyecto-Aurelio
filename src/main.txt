@@ -3,3 +3,4 @@ Backend: manejo de lógica del servidor y conexión a base de datos
 Frontend: interfaz de usuario y diseño visual
 Registro: creación de cuentas de usuario con validación de datos
 Login: autenticación de usuarios mediante correo y contraseña
+Dashboard: panel principal con información del usuario
