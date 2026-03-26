@@ -1,0 +1,2 @@
+Proyecto inicial
+Backend: manejo de lógica del servidor y conexión a base de datos
